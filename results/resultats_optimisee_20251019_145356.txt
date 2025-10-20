@@ -1,0 +1,89 @@
+============================================================
+RÉSULTATS - optimisee
+============================================================
+
+💰 Profit total : 5,480.30 F CFA
+⏱️  Temps d'exécution : 8.5581 secondes
+🛒 Nombre d'actions : 19
+
+----------------------------------------
+ACTIONS SÉLECTIONNÉES :
+----------------------------------------
+• Share-PLLK
+  Coût : 1,994 F CFA
+  Profit : 239.28 F CFA
+
+• Share-GRUT
+  Coût : 2,500 F CFA
+  Profit : 375.00 F CFA
+
+• Share-ECAQ
+  Coût : 3,166 F CFA
+  Profit : 316.60 F CFA
+
+• Share-IXCI
+  Coût : 2,632 F CFA
+  Profit : 210.56 F CFA
+
+• Share-FWBE
+  Coût : 1,830 F CFA
+  Profit : 219.60 F CFA
+
+• Share-ZOFA
+  Coût : 2,532 F CFA
+  Profit : 227.88 F CFA
+
+• Share-YFVZ
+  Coût : 2,255 F CFA
+  Profit : 248.05 F CFA
+
+• Share-ANFX
+  Coût : 3,854 F CFA
+  Profit : 501.02 F CFA
+
+• Share-PATS
+  Coût : 2,770 F CFA
+  Profit : 193.90 F CFA
+
+• Share-NDKR
+  Coût : 3,306 F CFA
+  Profit : 462.84 F CFA
+
+• Share-ALIY
+  Coût : 2,908 F CFA
+  Profit : 174.48 F CFA
+
+• Share-JWGF
+  Coût : 4,869 F CFA
+  Profit : 730.35 F CFA
+
+• Share-JGTW
+  Coût : 3,529 F CFA
+  Profit : 388.19 F CFA
+
+• Share-FAPS
+  Coût : 3,257 F CFA
+  Profit : 260.56 F CFA
+
+• Share-VCAX
+  Coût : 2,742 F CFA
+  Profit : 274.20 F CFA
+
+• Share-LFXB
+  Coût : 1,483 F CFA
+  Profit : 177.96 F CFA
+
+• Share-DWSK
+  Coût : 2,949 F CFA
+  Profit : 265.41 F CFA
+
+• Share-XQII
+  Coût : 1,342 F CFA
+  Profit : 93.94 F CFA
+
+• Share-ROOM
+  Coût : 1,506 F CFA
+  Profit : 120.48 F CFA
+
+📊 Total dépensé : 51,424 F CFA / 500 000 F CFA
+💸 Budget restant : 448,576 F CFA
